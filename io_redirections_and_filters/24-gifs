@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -type f | sort -b -printf "%f\n"
+ls . -a -type f *.gif -print "%f/n" | sort -b
