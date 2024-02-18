@@ -20,3 +20,7 @@
 19-AZ : This script replaces all characters A and c from input to Z and e respectively.
 20-hiago : This script removes all letters c and C from input.
 21-reverse : This script reverse its input.
+22-users_and_homes : This script displays all users and their home directories in the file "/etc/passwd", sorted by users.
+23-empty_casks : This script finds all the empty files and directories in the current directory and it's all subdirectories and displays them one file per line, by only the names without the entire path, even the hidden files too, although the listing ends with a new line.
+24-gifs : This script lists all the files (only the regular ones) with a ".gif" extension in the current directory and all its sub-directories and displays them without thier extensions one file name per line and sorted by byte values.
+25-acrostic : This script decodes acrostics that use the first letter of each line.
